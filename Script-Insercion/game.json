@@ -1,0 +1,602 @@
+﻿[
+    {
+        "name": "\"Forza Horizon 5\"",
+        "type_id": "5",
+        "description": "\"odio donec\"",
+        "creator_id": "61 "
+    },
+    {
+        "name": "\"Call of Duty: Vanguard\"",
+        "type_id": "7",
+        "description": "\"morbi non\"",
+        "creator_id": "146 "
+    },
+    {
+        "name": "\"Shin Megami Tensei 5\"",
+        "type_id": "8",
+        "description": "\"turpis integer aliquet massa id\"",
+        "creator_id": "16 "
+    },
+    {
+        "name": "\"Marvels Guardianes de la Galaxia\"",
+        "type_id": "43",
+        "description": "\"lobortis sapien sapien non mi\"",
+        "creator_id": "46 "
+    },
+    {
+        "name": "\"Age of Empires IV\"",
+        "type_id": "23",
+        "description": "",
+        "creator_id": "34 "
+    },
+    {
+        "name": "\"Football Manager 22\"",
+        "type_id": "54",
+        "description": "\"nulla suspendisse potenti\"",
+        "creator_id": "66 "
+    },
+    {
+        "name": "\"Football Manager 22\"",
+        "type_id": "54",
+        "description": "\"mauris lacinia sapien quis libero\"",
+        "creator_id": "99 "
+    },
+    {
+        "name": "\"Blue Reflection: Second Light\"",
+        "type_id": "76",
+        "description": "\"libero rutrum ac lobortis\"",
+        "creator_id": "199 "
+    },
+    {
+        "name": "\"Darkest Dungeon II\"",
+        "type_id": "81",
+        "description": "\"erat nulla\"",
+        "creator_id": "100 "
+    },
+    {
+        "name": "\"Voice of Cards\"",
+        "type_id": "73",
+        "description": "\"parturient montes nascetur\"",
+        "creator_id": "21 "
+    },
+    {
+        "name": "\"Elden Ring\"",
+        "type_id": "45",
+        "description": "\"et ultrices posuere cubilia curae\"",
+        "creator_id": "94 "
+    },
+    {
+        "name": "\"FIFA 22: Ultimate Team\"",
+        "type_id": "56",
+        "description": "suspendisse",
+        "creator_id": "64 "
+    },
+    {
+        "name": "\"New World\"",
+        "type_id": "34",
+        "description": "\"potenti cras in\"",
+        "creator_id": "193 "
+    },
+    {
+        "name": "\"Gran Turismo 7\"",
+        "type_id": "12",
+        "description": "",
+        "creator_id": "117 "
+    },
+    {
+        "name": "\"Kingdoms of Amalur: Re-Reckoning\"",
+        "type_id": "7",
+        "description": "\"sit amet sapien dignissim\"",
+        "creator_id": "68 "
+    },
+    {
+        "name": "\"Project Zero: Maiden of Black Water\"",
+        "type_id": "23",
+        "description": "",
+        "creator_id": "110 "
+    },
+    {
+        "name": "\"Mario Party Superstars\"",
+        "type_id": "32",
+        "description": "\"pellentesque ultrices phasellus id\"",
+        "creator_id": "18 "
+    },
+    {
+        "name": "\"Far Cry 6\"",
+        "type_id": "15",
+        "description": "\"ante vel ipsum praesent blandit\"",
+        "creator_id": "100 "
+    },
+    {
+        "name": "\"Marvels Guardianes de la Galaxia\"",
+        "type_id": "2",
+        "description": "\"in ante vestibulum ante ipsum\"",
+        "creator_id": "4 "
+    },
+    {
+        "name": "\"Riders Republic\"",
+        "type_id": "16",
+        "description": "in",
+        "creator_id": "24 "
+    },
+    {
+        "name": "\"Forza Horizon 5\"",
+        "type_id": "16",
+        "description": "\"congue eget\"",
+        "creator_id": "69 "
+    },
+    {
+        "name": "\"Poppy Playtime\"",
+        "type_id": "27",
+        "description": "\"nulla elit ac nulla\"",
+        "creator_id": "139 "
+    },
+    {
+        "name": "\"The Dark Pictures: House Of Ashes\"",
+        "type_id": "5",
+        "description": "",
+        "creator_id": "26 "
+    },
+    {
+        "name": "DokeV",
+        "type_id": "7",
+        "description": "vel",
+        "creator_id": "125 "
+    },
+    {
+        "name": "\"Call of Duty: Vanguard\"",
+        "type_id": "8",
+        "description": "\"in felis eu sapien\"",
+        "creator_id": "25 "
+    },
+    {
+        "name": "\"Disciples: Liberation\"",
+        "type_id": "43",
+        "description": "\"non lectus aliquam sit amet\"",
+        "creator_id": "1 "
+    },
+    {
+        "name": "\"Iron Harvest: Complete Edition\"",
+        "type_id": "23",
+        "description": "\"pellentesque eget nunc donec quis\"",
+        "creator_id": "191 "
+    },
+    {
+        "name": "\"Leyendas Pokémon: Arceus\"",
+        "type_id": "54",
+        "description": "\"vitae consectetuer eget rutrum at\"",
+        "creator_id": "136 "
+    },
+    {
+        "name": "\"The Elder Scrolls V: Skyrim Anniversary Edition\"",
+        "type_id": "54",
+        "description": "\"proin at\"",
+        "creator_id": "178 "
+    },
+    {
+        "name": "\"Assassins Creed Valhalla\"",
+        "type_id": "76",
+        "description": "vivamus",
+        "creator_id": "102 "
+    },
+    {
+        "name": "Inscryption",
+        "type_id": "81",
+        "description": "",
+        "creator_id": "154 "
+    },
+    {
+        "name": "\"Metroid Dread\"",
+        "type_id": "73",
+        "description": "",
+        "creator_id": "162 "
+    },
+    {
+        "name": "\"Call of Duty: Vanguard\"",
+        "type_id": "45",
+        "description": "\"proin eu\"",
+        "creator_id": "17 "
+    },
+    {
+        "name": "\"Elden Ring\"",
+        "type_id": "56",
+        "description": "\"nec molestie sed justo\"",
+        "creator_id": "170 "
+    },
+    {
+        "name": "\"Resident Evil 4 VR\"",
+        "type_id": "34",
+        "description": "magna",
+        "creator_id": "14 "
+    },
+    {
+        "name": "\"Far Cry 6\"",
+        "type_id": "12",
+        "description": "",
+        "creator_id": "184 "
+    },
+    {
+        "name": "\"Pokémon Diamante Brillante / Perla Reluciente\"",
+        "type_id": "7",
+        "description": "\"imperdiet et commodo\"",
+        "creator_id": "81 "
+    },
+    {
+        "name": "\"Grand Theft Auto: The Trilogy - The Definitive Edition\"",
+        "type_id": "23",
+        "description": "praesent",
+        "creator_id": "13 "
+    },
+    {
+        "name": "\"Crysis Remastered Trilogy\"",
+        "type_id": "32",
+        "description": "\"volutpat convallis\"",
+        "creator_id": "69 "
+    },
+    {
+        "name": "\"Jurassic World Evolution 2\"",
+        "type_id": "15",
+        "description": "",
+        "creator_id": "153 "
+    },
+    {
+        "name": "\"Lost Ark\"",
+        "type_id": "2",
+        "description": "\"sapien quis libero\"",
+        "creator_id": "185 "
+    },
+    {
+        "name": "\"Marvels Guardianes de la Galaxia\"",
+        "type_id": "16",
+        "description": "\"lectus suspendisse\"",
+        "creator_id": "69 "
+    },
+    {
+        "name": "\"Dungeon Encounters\"",
+        "type_id": "16",
+        "description": "",
+        "creator_id": "117 "
+    },
+    {
+        "name": "\"First Class Trouble\"",
+        "type_id": "27",
+        "description": "",
+        "creator_id": "80 "
+    },
+    {
+        "name": "\"FIFA 22\"",
+        "type_id": "5",
+        "description": "\"tempor convallis nulla neque libero\"",
+        "creator_id": "42 "
+    },
+    {
+        "name": "\"Alan Wake Remastered\"",
+        "type_id": "7",
+        "description": "\"dui luctus rutrum nulla tellus\"",
+        "creator_id": "82 "
+    },
+    {
+        "name": "\"Disco Elysium\"",
+        "type_id": "8",
+        "description": "\"in tempor\"",
+        "creator_id": "171 "
+    },
+    {
+        "name": "\"Back 4 Blood\"",
+        "type_id": "43",
+        "description": "\"ornare imperdiet sapien urna pretium\"",
+        "creator_id": "198 "
+    },
+    {
+        "name": "\"FIFA 22: Ultimate Team\"",
+        "type_id": "23",
+        "description": "habitasse",
+        "creator_id": "124 "
+    },
+    {
+        "name": "\"Far Cry 6\"",
+        "type_id": "54",
+        "description": "\"quis libero nullam sit\"",
+        "creator_id": "86 "
+    },
+    {
+        "name": "\"Battlefield 2042\"",
+        "type_id": "54",
+        "description": "",
+        "creator_id": "45 "
+    },
+    {
+        "name": "\"Knockout City\"",
+        "type_id": "76",
+        "description": "",
+        "creator_id": "29 "
+    },
+    {
+        "name": "\"God of War\"",
+        "type_id": "81",
+        "description": "\"sit amet diam in\"",
+        "creator_id": "88 "
+    },
+    {
+        "name": "\"Kena: Bridge of Spirits\"",
+        "type_id": "73",
+        "description": "\"pellentesque at\"",
+        "creator_id": "167 "
+    },
+    {
+        "name": "\"Kimetsu no Yaiba - The Hinokami Chronicles\"",
+        "type_id": "45",
+        "description": "",
+        "creator_id": "199 "
+    },
+    {
+        "name": "\"PES 2022\"",
+        "type_id": "56",
+        "description": "\"mi pede\"",
+        "creator_id": "125 "
+    },
+    {
+        "name": "\"Elden Ring\"",
+        "type_id": "34",
+        "description": "\"etiam pretium iaculis\"",
+        "creator_id": "154 "
+    },
+    {
+        "name": "\"Grand Theft Auto: The Trilogy - The Definitive Edition\"",
+        "type_id": "12",
+        "description": "\"integer tincidunt\"",
+        "creator_id": "66 "
+    },
+    {
+        "name": "\"Battlefield 2042\"",
+        "type_id": "7",
+        "description": "\"pede libero\"",
+        "creator_id": "90 "
+    },
+    {
+        "name": "\"Jurassic World Evolution 2\"",
+        "type_id": "23",
+        "description": "",
+        "creator_id": "128 "
+    },
+    {
+        "name": "\"Echo Generation\"",
+        "type_id": "32",
+        "description": "\"elementum ligula\"",
+        "creator_id": "14 "
+    },
+    {
+        "name": "\"Knights of the Old Republic\"",
+        "type_id": "15",
+        "description": "\"ipsum primis in faucibus orci\"",
+        "creator_id": "107 "
+    },
+    {
+        "name": "Starfield",
+        "type_id": "2",
+        "description": "diam",
+        "creator_id": "49 "
+    },
+    {
+        "name": "\"My Friend Peppa Pig\"",
+        "type_id": "16",
+        "description": "vel",
+        "creator_id": "56 "
+    },
+    {
+        "name": "\"Youtubers Life 2\"",
+        "type_id": "16",
+        "description": "\"lacus morbi quis\"",
+        "creator_id": "6 "
+    },
+    {
+        "name": "\"Ghost Recon: Frontline\"",
+        "type_id": "27",
+        "description": "habitasse",
+        "creator_id": "48 "
+    },
+    {
+        "name": "\"Aven Colony\"",
+        "type_id": "5",
+        "description": "\"sollicitudin ut\"",
+        "creator_id": "6 "
+    },
+    {
+        "name": "\"Saints & Sinners\"",
+        "type_id": "7",
+        "description": "\"placerat ante nulla justo\"",
+        "creator_id": "63 "
+    },
+    {
+        "name": "\"The Dark Pictures: House Of Ashes\"",
+        "type_id": "8",
+        "description": "",
+        "creator_id": "142 "
+    },
+    {
+        "name": "\"Rainbow Six: Siege\"",
+        "type_id": "43",
+        "description": "\"curae duis faucibus accumsan\"",
+        "creator_id": "110 "
+    },
+    {
+        "name": "\"The Good Life\"",
+        "type_id": "23",
+        "description": "\"ultrices phasellus id sapien in\"",
+        "creator_id": "121 "
+    },
+    {
+        "name": "\"Grand Theft Auto: The Trilogy - The Definitive Edition\"",
+        "type_id": "54",
+        "description": "\"ac consequat metus sapien ut\"",
+        "creator_id": "200 "
+    },
+    {
+        "name": "\"Elden Ring\"",
+        "type_id": "54",
+        "description": "\"elementum pellentesque\"",
+        "creator_id": "184 "
+    },
+    {
+        "name": "\"Back 4 Blood\"",
+        "type_id": "76",
+        "description": "pulvinar",
+        "creator_id": "192 "
+    },
+    {
+        "name": "\"Marvels Guardianes de la Galaxia\"",
+        "type_id": "81",
+        "description": "\"commodo placerat praesent blandit nam\"",
+        "creator_id": "125 "
+    },
+    {
+        "name": "\"Fast & Furious: Spy Racers El Retorno de SH1FT3R\"",
+        "type_id": "73",
+        "description": "\"ligula sit amet eleifend pede\"",
+        "creator_id": "40 "
+    },
+    {
+        "name": "\"Dragon Ball Z Kakarot\"",
+        "type_id": "45",
+        "description": "lorem",
+        "creator_id": "19 "
+    },
+    {
+        "name": "\"Insurgency: Sandstorm\"",
+        "type_id": "56",
+        "description": "\"morbi a ipsum\"",
+        "creator_id": "111 "
+    },
+    {
+        "name": "\"Grand Theft Auto: The Trilogy - The Definitive Edition\"",
+        "type_id": "34",
+        "description": "\"eu tincidunt in leo\"",
+        "creator_id": "64 "
+    },
+    {
+        "name": "\"Kimetsu no Yaiba - The Hinokami Chronicles\"",
+        "type_id": "12",
+        "description": "\"sagittis dui\"",
+        "creator_id": "38 "
+    },
+    {
+        "name": "\"Mafia: Edición Definitiva\"",
+        "type_id": "7",
+        "description": "\"augue vel accumsan\"",
+        "creator_id": "174 "
+    },
+    {
+        "name": "\"Xbox Game Pass\"",
+        "type_id": "23",
+        "description": "\"eleifend pede libero quis\"",
+        "creator_id": "155 "
+    },
+    {
+        "name": "\"The Last of Us 2\"",
+        "type_id": "32",
+        "description": "\"quam turpis adipiscing\"",
+        "creator_id": "96 "
+    },
+    {
+        "name": "\"Dragon Age: Inquisition\"",
+        "type_id": "15",
+        "description": "\"auctor gravida sem praesent id\"",
+        "creator_id": "29 "
+    },
+    {
+        "name": "\"Harry Potter: Magic Awakened\"",
+        "type_id": "2",
+        "description": "\"sed tristique in tempus\"",
+        "creator_id": "174 "
+    },
+    {
+        "name": "\"Riders Republic\"",
+        "type_id": "16",
+        "description": "\"lobortis est\"",
+        "creator_id": "85 "
+    },
+    {
+        "name": "\"First Class Trouble\"",
+        "type_id": "16",
+        "description": "\"ipsum primis in faucibus orci\"",
+        "creator_id": "29 "
+    },
+    {
+        "name": "\"It Takes Two\"",
+        "type_id": "27",
+        "description": "",
+        "creator_id": "34 "
+    },
+    {
+        "name": "UnMetal",
+        "type_id": "5",
+        "description": "\"at turpis\"",
+        "creator_id": "156 "
+    },
+    {
+        "name": "\"Ghost of Tsushima\"",
+        "type_id": "7",
+        "description": "purus",
+        "creator_id": "29 "
+    },
+    {
+        "name": "\"Bright Memory: Infinite\"",
+        "type_id": "8",
+        "description": "",
+        "creator_id": "152 "
+    },
+    {
+        "name": "\"Project Zero: Maiden of Black Water\"",
+        "type_id": "43",
+        "description": "",
+        "creator_id": "23 "
+    },
+    {
+        "name": "\"Blast Brigade\"",
+        "type_id": "23",
+        "description": "\"in sapien iaculis congue vivamus\"",
+        "creator_id": "79 "
+    },
+    {
+        "name": "\"Until You Fall\"",
+        "type_id": "54",
+        "description": "\"sollicitudin ut suscipit a feugiat\"",
+        "creator_id": "41 "
+    },
+    {
+        "name": "\"The Dark Pictures: House Of Ashes\"",
+        "type_id": "54",
+        "description": "\"aenean lectus pellentesque eget nunc\"",
+        "creator_id": "110 "
+    },
+    {
+        "name": "\"Project Zero: Maiden of Black Water\"",
+        "type_id": "76",
+        "description": "\"ac nulla\"",
+        "creator_id": "129 "
+    },
+    {
+        "name": "\"Actraiser Renaissance\"",
+        "type_id": "81",
+        "description": "\"viverra eget congue\"",
+        "creator_id": "65 "
+    },
+    {
+        "name": "\"Call of Duty: Vanguard\"",
+        "type_id": "73",
+        "description": "\"odio donec vitae nisi\"",
+        "creator_id": "150 "
+    },
+    {
+        "name": "Chernobylite",
+        "type_id": "45",
+        "description": "\"fermentum donec ut mauris eget\"",
+        "creator_id": "120 "
+    },
+    {
+        "name": "\"Cyberpunk 2077\"",
+        "type_id": "56",
+        "description": "",
+        "creator_id": "18"
+    }
+]
