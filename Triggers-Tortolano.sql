@@ -17,10 +17,10 @@ SELECT * FROM user;
 
 CREATE TABLE new_user(
 	new_user_id INT,
-	username VARCHAR(20),
-    first_name CHAR(20),
-    last_name CHAR(20),
-    email VARCHAR(60)
+	username NVARCHAR(30),
+    first_name VARCHAR(30),
+    last_name VARCHAR(30),
+    email NVARCHAR(60)
 	);
     
 SELECT * FROM new_user;
