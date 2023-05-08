@@ -25,7 +25,7 @@ DROP TABLE IF EXISTS new_game;
 CREATE TABLE new_game(
 	new_game_id INT,
 	name NVARCHAR(30),
-    description VARCHAR(30)
+    description NVARCHAR(30)
     );
 
 /* Creacion del trigger "trigger_check_value_before_insert". Dicho trigger lo que hace es realizar una
