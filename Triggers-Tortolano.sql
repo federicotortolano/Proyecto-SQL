@@ -1,6 +1,6 @@
-/* Creacion de tablas AUDITS y new_user */
-
-CREATE TABLE AUDITS(
+/* Creacion de tablas AUDITS, new_user y new_game */
+DROP TABLE IF EXISTS audits;
+CREATE TABLE audits(
 	audit_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     entity VARCHAR(100),
     entity_id INT,
@@ -11,10 +11,8 @@ CREATE TABLE AUDITS(
     last_update_time TIME,
     last_update_user VARCHAR(100)
     );
-    
-SELECT * FROM AUDITS;
-SELECT * FROM user;
-
+   
+DROP TABLE IF EXISTS new_user; 
 CREATE TABLE new_user(
 	new_user_id INT,
 	username NVARCHAR(30),
@@ -22,8 +20,13 @@ CREATE TABLE new_user(
     last_name VARCHAR(30),
     email NVARCHAR(60)
 	);
-    
-SELECT * FROM new_user;
+
+DROP TABLE IF EXISTS new_game; 
+CREATE TABLE new_game(
+	new_game_id INT,
+	name NVARCHAR(30),
+    description VARCHAR(30)
+    );
 
 /* Creacion del trigger "trigger_check_value_before_insert". Dicho trigger lo que hace es realizar una
 validacion sobre el campo "value" antes de una insercion en la tabla "value" para que este quede 
@@ -104,3 +107,46 @@ BEGIN
         email = new.email
 	WHERE new_user_id = OLD.user_id;
 END $$
+
+/* Creacion del trigger "trigger_after_insert_game". Dicho trigger lo que hace es insertar
+en la tabla AUDITS lo siguiente: en que tabla se realizo la insercion (en este caso, game), 
+el id de dicha entidad, a que hora, que dia y quien la realizo. Luego, realiza la insercion 
+de los datos en la tabla "new_game". */
+
+DELIMITER $$
+DROP TRIGGER IF EXISTS trigger_after_insert_game;
+CREATE TRIGGER trigger_after_insert_game
+AFTER INSERT ON `game`
+FOR EACH ROW
+BEGIN
+	INSERT INTO AUDITS (entity, entity_id, insert_date, insert_time, created_by)
+    VALUES ('game', NEW.game_id, CURDATE(), CURTIME(), USER());
+    INSERT INTO new_game (new_game_id, name, description)
+    VALUES (NEW.game_id, NEW.name, NEW.description);
+END $$
+
+/* Creacion del trigger "trigger_after_update_game". Dicho trigger lo que hace es actualizar
+en la tabla AUDITS lo siguiente: a que hora, que dia, y quien realizo la actualizacion del registro.
+Luego, realiza la actualizacion de los datos nuevos en la tabla "new_game". */
+
+DELIMITER $$
+DROP TRIGGER IF EXISTS trigger_after_update_game;
+CREATE TRIGGER trigger_after_update_game
+AFTER UPDATE ON game
+FOR EACH ROW
+BEGIN
+	UPDATE audits 
+	SET last_update_date = CURDATE(),
+		last_update_time = CURTIME(),
+		last_update_user = USER()
+	WHERE entity_id = OLD.game_id;
+    UPDATE new_game
+    SET name = new.name,
+		description = new.description
+	WHERE new_game_id = OLD.game_id;
+END $$
+
+INSERT INTO `game` (name, type_id, description, creator_id)
+VALUES ('FIFA23', 1, 'Juego de futbol', 20);
+
+UPDATE game SET name = "FIFA 23: WC QATAR2022" WHERE name = "FIFA23";
